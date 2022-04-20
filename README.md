@@ -19,3 +19,6 @@ and https://bbs.pediy.com/thread-228353.htm
   
 **大概是这样,频繁调用的函数可以考虑call一下,这里就没call了**
 ![image](pic/微信图片_20220420171222.png)
+
+# todo
+换通讯,这个通讯贼慢
